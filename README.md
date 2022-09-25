@@ -1,1 +1,1 @@
-# Hand-Sign-Detection
+# A.I Hand-Sign-Detection
